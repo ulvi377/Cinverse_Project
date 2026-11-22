@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+dist/
+build/
+.env
+*.log
+**/bin/
+**/obj/
+.DS_Store
